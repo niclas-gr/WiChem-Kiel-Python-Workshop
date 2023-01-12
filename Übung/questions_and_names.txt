@@ -1,0 +1,5 @@
+Person 1, wie heißen sie? Emil
+Person 2, wie heißen sie? Emma
+Person 3, wie heißen sie? Kira
+Person 4, wie heißen sie? Birgit
+Person 5, wie heißen sie? Hans
